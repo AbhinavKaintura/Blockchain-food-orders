@@ -2,7 +2,7 @@
 
 1. In your vscode terminal run the command:
    ```bash
-     git clone https://github.com/AbhinavKaintura/Blockchain-food-orders
+     git clone https://github.com/AbhinavKaintura/Blockchain-food-orders.git
    ```
 
 2. After cloning, run the command 
