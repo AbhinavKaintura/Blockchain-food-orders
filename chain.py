@@ -1,5 +1,5 @@
 from time import time
-from block1 import Block
+from block import Block
 
 
 class FoodChain:
